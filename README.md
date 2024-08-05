@@ -1,6 +1,6 @@
 # Cypress Lighthouse Test Project
 
-This project demonstrates how to run Lighthouse audits using Cypress, providing automated performance, accessibility, best practices, and SEO testing for web applications.
+This project demonstrates how to run Lighthouse audits using Cypress, providing performance, accessibility, best practices, and SEO testing scores and recommendations for web applications.
 
 ## Prerequisites
 
