@@ -1,0 +1,11 @@
+{
+  "common": {
+    "cookieConsentAccept": "body > div.c24-cookie-consent-wrapper > div.c24-cookie-consent-notice > div.c24-cookie-consent-notice-buttons.clearfix > a:nth-child(2)"
+  },
+  "homepage": {
+    "someElement": "#some-element-selector"
+  },
+  "searchResults": {
+    "anotherElement": "#another-element-selector"
+  }
+}
